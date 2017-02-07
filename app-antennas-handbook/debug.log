@@ -1,0 +1,159 @@
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 16208 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 16560 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 19776 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 18380 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 16188 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 6716 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 16944 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 9668 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:exception_snapshot_win.cc(88)] thread ID 16548 not found in process
+[0909/192811:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0909/192811:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0909/192811:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll

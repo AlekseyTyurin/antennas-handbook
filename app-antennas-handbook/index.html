@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" ng-app="deviceHandbookApp">
+<head>
+  	<meta charset="utf-8">
+  	<title>Antenna-Fider Devices Handbook</title>
+  	<link rel="stylesheet" href="css/bootstrap.css">
+  	<link rel="stylesheet" href="css/app.css"/>
+  	<!-- Defines CSS necessary for animations 
+	<link rel="stylesheet" href="app.animations.css" />-->
+
+</head>
+<body>
+
+	<div ng-view></div>
+
+
+  <!-- In production use:
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+  -->
+  	<script src="js/jquery.js" ></script>
+  	<script src="lib/angular/angular.js"></script>
+  	<script src="lib/angular/angular-route.js"></script>
+  	<script src="lib/angular/angular-animate.js"></script>
+  	<script src="lib/angular/angular-resource.js"></script>
+  	<script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+  	<script src="device-list/device-list.module.js"></script>
+  	<script src="device-list/device-list.component.js"></script>
+    <script src="device-detail/device-detail.module.js"></script>
+    <script src="device-detail/device-detail.component.js"></script>
+    <script src="core/core.module.js"></script>
+    <script src="core/device/device.module.js"></script>
+    <script src="core/device/device.service.js"></script>
+	<script src="js/services.js"></script>
+  	<script src="js/controllers.js"></script>
+  	<script src="js/filters.js"></script>
+  	<script src="js/directives.js"></script>
+
+
+    <!-- <script src="core/checkmark/checkmark.filter.js"></script>
+    	<script src="app.animations.js"></script>
+ -->
+</body>
+</html>

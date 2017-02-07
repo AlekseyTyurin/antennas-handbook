@@ -1,0 +1,32 @@
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			
+			<h1>{{$ctrl.device.name}}</h1>
+			
+			<p>{{$ctrl.device.description}}</p>
+		</div>
+	</div>
+	<div class="row">
+
+		<div class="col-md-3">
+			<img ng-src="{{$ctrl.mainImageUrl}}" class="device" />
+
+		</div>
+		<div class="col-md-9">
+
+
+			<ul class="device-thumbs">
+			  <li ng-repeat="img in $ctrl.device.images">
+			    <img ng-src="{{ img }}" ng-click="$ctrl.setImage(img)" />
+			  </li>
+			</ul>
+			<div class="row">
+				<div class="col-sm-10">
+					<p>TEST</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

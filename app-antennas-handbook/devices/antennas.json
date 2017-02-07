@@ -1,0 +1,33 @@
+[
+			{
+				"id": "adu451716",
+        "imageUrl": "img/antennas/ADU451716.0.jpg",
+        "name": "X-pol Антенна ADU451716",
+				"snippet": "DXX-790-960/1710-2690-65/65-15i/17.5-M/M",
+        "vendor": "Huawei"
+
+			},
+			{
+				"id": "aqu4518R0",
+        "imageUrl": "img/antennas/AQU4518R0.0.jpg",
+        "name": "X-pol Антенна AQU4518R0",
+				"snippet": "DXXXX-790-960/1710-2690/1710-2170/2490-2690-65/65/65/65-16i/18i/18i/18i-M/M/M/M-R. EasyRET Quater-Band Antenna with 4 Integrated RCUs - 2.0m",
+        "vendor": "Huawei"
+        
+			},
+      {
+        "id": "atr4517R1",
+        "imageUrl": "img/antennas/ATR4517R1.0.jpg",
+        "name": "X-pol Антенна ATR4517R1",
+        "snippet": "DXXX-790-960/1710-2690/1710-2690-65/65/65-15i/17.5i/17.5i-M/M/M-R. EasyRET Tri-Band Antenna with 3 Integrated RCUs - 1.4m",
+        "vendor": "Huawei"
+        
+      },
+      {
+        "id": "ADU4515R0",
+        "imageUrl": "img/antennas/ADU4515R0.0.jpg",
+        "name": "X-pol Антенна ADU4515R0",
+        "snippet": "DXX-790-862/880-960-65/65-14.5i/15i-M/M-R. EasyRET Dual-Band Antenna with 2 Integrated RCUs-1.4m",
+        "vendor": "Huawei"
+      }
+		]
